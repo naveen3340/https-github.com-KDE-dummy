@@ -1,1 +1,1 @@
-puts 'teacup'
+puts 'teacups'
