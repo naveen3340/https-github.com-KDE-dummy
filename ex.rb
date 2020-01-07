@@ -1,1 +1,1 @@
-puts tea
+puts 'tea'
