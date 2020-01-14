@@ -1,2 +1,1 @@
 
-Example.java:23: error: ';' expected
