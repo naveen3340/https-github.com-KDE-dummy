@@ -11,7 +11,7 @@ public class Example {
     System.out.print("Input third number: ");
     int z = in.nextInt();
 
-    
+    if(x == y && x == z)
   }
 
 }
