@@ -1,1 +1,5 @@
 
+
+
+1/14/2020, 9:24:43 AM
+Input first number: Input second number: Input third number: Neither all are equal or different
