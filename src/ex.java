@@ -10,5 +10,7 @@ public class Ex {
     int y = in.nextInt();
     System.out.print("Input third number: ");
     int z = in.nextInt();
+
+    if()
   }
 }
