@@ -12,9 +12,11 @@ public class Example {
     int z = in.nextInt();
 
     if(x == y && x == z) {
-      System.out.print("All numbers are equal");
+      System.out.println("All numbers are equal");
     }
-    else if((x == y) || (x == z) || (z == y)) 
+    else if((x == y) || (x == z) || (z == y)) {
+      System.out.println("Neither all are equal or dif")
+    }
   }
 
 }
