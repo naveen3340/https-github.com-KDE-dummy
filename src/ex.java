@@ -11,6 +11,8 @@ public class Ex {
     System.out.print("Input third number: ");
     int z = in.nextInt();
 
-    if()
+    if(x == y && x == z) {
+      System.out.println("All numbers ar")
+    }
   }
 }
