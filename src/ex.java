@@ -4,11 +4,11 @@ public class Ex {
     int y = 2;
     int z = 3;
 
-    System.out.print("Input first number: " + x);
+    System.out.println("Input first number: " + x);
     
-    System.out.print("Input second number: " + y);
+    System.out.println("Input second number: " + y);
     
-    System.out.print("Input third number: " + );
+    System.out.println("Input third number: " + z);
     
 
     if(x == y && x == z) {

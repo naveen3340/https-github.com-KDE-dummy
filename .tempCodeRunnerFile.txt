@@ -1,1 +1,5 @@
 
+Input first number: 1
+Input second number: 2
+Input third number: 3
+All numbers are different
