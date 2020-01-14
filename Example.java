@@ -15,7 +15,7 @@ public class Example {
       System.out.println("All numbers are equal");
     }
     else if((x == y) || (x == z) || (z == y)) {
-      System.out.println("Neither all are equal or dif")
+      System.out.println("Neither all are equal or different");
     }
   }
 
