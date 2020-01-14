@@ -11,7 +11,10 @@ public class Example {
     System.out.print("Input third number: ");
     int z = in.nextInt();
 
-    if(x == y && x == z)
+    if(x == y && x == z) {
+      System.out.print("All numbers are equal");
+    }
+    else if
   }
 
 }
