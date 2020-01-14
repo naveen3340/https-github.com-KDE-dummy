@@ -17,5 +17,8 @@ public class Ex {
     else if ((x == y) || (x == z) || (z == y)) {
       System.out.println("Neither all are equal or different");
     }
+    else {
+      System.out.println("All numbers are different")
+    }
   }
 }
