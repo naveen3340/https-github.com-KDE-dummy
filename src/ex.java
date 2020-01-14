@@ -5,6 +5,9 @@ public class Ex {
     Scanner in = new Scanner(System.in);
 
     System.out.print("Input first number: ");
-    int x = in.nextInt()
+    int x = in.nextInt();
+
+    System.out.print("Input first number: ");
+    int x = in.nextInt();
   }
 }
