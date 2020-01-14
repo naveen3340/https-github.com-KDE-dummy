@@ -14,7 +14,7 @@ public class Example {
     if(x == y && x == z) {
       System.out.print("All numbers are equal");
     }
-    else if
+    else if((x == y) || (x == z) || (z == y)) 
   }
 
 }
