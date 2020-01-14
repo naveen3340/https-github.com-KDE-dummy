@@ -6,8 +6,9 @@ public class Ex {
 
     System.out.print("Input first number: ");
     int x = in.nextInt();
-
-    System.out.print("Input first number: ");
-    int x = in.nextInt();
+    System.out.print("Input second number: ");
+    int y = in.nextInt();
+    System.out.print("Input third number: ");
+    int z = in.nextInt();
   }
 }
