@@ -1,13 +1,1 @@
 
-Tue 14 Jan 2020 10:09:18 CST
-Example.java:23: error: ';' expected
-      System.out.println("All numbers are different")
-                                                     ^
-1 error
-Input first number: Input second number: Input third number: Neither all are equal or different
-Tue 14 Jan 2020 10:09:44 CST
-Example.java:23: error: ';' expected
-      System.out.println("All numbers are different")
-                                                     ^
-1 error
-Input first number: 
