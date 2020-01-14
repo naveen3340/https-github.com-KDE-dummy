@@ -1,4 +1,11 @@
+/Users/Reynaldo/Desktop/test-Rey1213/ex.js:1
+console.log(;);
+            ^
 
-
-
-1/14/2020, 9:00:30 AM
+SyntaxError: Unexpected token ;
+    at Module._compile (internal/modules/cjs/loader.js:872:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+    at Module.load (internal/modules/cjs/loader.js:790:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:999:10)
+    at internal/main/run_main_module.js:17:11
