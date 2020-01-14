@@ -1,1 +1,5 @@
 
+
+
+1578992608156
+Input first number: Input second number: Input third number: Neither all are equal or different
