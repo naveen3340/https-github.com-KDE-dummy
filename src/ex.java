@@ -12,7 +12,7 @@ public class Ex {
     int z = in.nextInt();
 
     if(x == y && x == z) {
-      System.out.println("All numbers ar")
+      System.out.println("All numbers are equal");
     }
   }
 }
