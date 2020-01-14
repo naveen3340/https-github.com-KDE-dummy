@@ -1,9 +1,1 @@
 
-
-
-1/14/2020, 3:13:38 AM
-Input first number: Input second number: Input third number: All numbers are different
-
-
-1/14/2020, 3:14:03 AM
-test
