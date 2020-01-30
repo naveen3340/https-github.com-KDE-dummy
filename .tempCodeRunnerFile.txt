@@ -1,8 +1,1 @@
 
-Thu 30 Jan 2020 13:24:36 CST
-  File "/Users/Reynaldo/Desktop/test-Rey1213/ex.py", line 1
-    print "Hello"
-                ^
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Hello")?
-Thu 30 Jan 2020 13:24:54 CST
-Hello
