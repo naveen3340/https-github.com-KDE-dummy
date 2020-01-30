@@ -11,7 +11,7 @@ public class Example {
       int y = in.nextInt();
       System.out.print("Input third number: ");
       int z = in.nextInt();
-      ksdfklds
+      
       if (x == y && x == z)
       {
           System.out.println("All numbers are equal");
