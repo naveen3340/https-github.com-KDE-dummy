@@ -1,1 +1,5 @@
 
+Thu 30 Jan 2020 12:02:26 CST
+Input first number: Input second number: Input third number: All numbers are equal
+Thu 30 Jan 2020 12:02:57 CST
+Input first number: Input second number: Input third number: Neither all are equal or different
