@@ -23,5 +23,4 @@ public class Example {
       System.out.println("All numbers are different");
     }
   }
-
 }
