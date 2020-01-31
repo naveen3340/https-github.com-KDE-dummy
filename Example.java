@@ -7,12 +7,13 @@ public class Example {
       
       System.out.print("Input first number: ");
       //int x = in.nextInt();
-      int x=1
+      int x=1;
       System.out.print("Input second number: ");
       //int y = in.nextInt();
-      int y = 2
+      int y = 2;
       System.out.print("Input third number: ");
       //int z = in.nextInt();
+      int z = 
       
       if (x == y && x == z)
       {
