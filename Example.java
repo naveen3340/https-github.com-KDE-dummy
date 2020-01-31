@@ -13,7 +13,7 @@ public class Example {
       int y = 2;
       System.out.print("Input third number: ");
       //int z = in.nextInt();
-      int z = 
+      int z = 3;
       
       if (x == y && x == z)
       {
@@ -28,6 +28,6 @@ public class Example {
           System.out.println("All numbers are different");
       }
 
-      in.close();
+      //in.close();
     }
 }
