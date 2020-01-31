@@ -3,17 +3,14 @@ import java.util.Scanner;
 public class Example {
   public static void main(String[] args)
     {
-      //Scanner in = new Scanner(System.in);
+      Scanner in = new Scanner(System.in);
       
       System.out.print("Input first number: ");
-      //int x = in.nextInt();
-      int x=1;
+      int x = in.nextInt();
       System.out.print("Input second number: ");
-      //int y = in.nextInt();
-      int y = 2;
+      int y = in.nextInt();
       System.out.print("Input third number: ");
-      //int z = in.nextInt();
-      int z = 3;
+      int z = in.nextInt();
       
       if (x == y && x == z)
       {
@@ -28,6 +25,6 @@ public class Example {
           System.out.println("All numbers are different");
       }
 
-      //in.close();
+      in.close();
     }
 }
