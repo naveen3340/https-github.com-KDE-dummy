@@ -1,1 +1,6 @@
 
+Traceback (most recent call last):
+  File "/Users/Reynaldo/Desktop/test-Rey1213/ex.py", line 1, in <module>
+    prin("Hello")
+NameError: name 'prin' is not defined
+Sun  2 Feb 2020 02:27:09 CST
