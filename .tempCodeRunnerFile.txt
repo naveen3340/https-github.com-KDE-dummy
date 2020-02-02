@@ -1,1 +1,10 @@
 
+Example.java:21: error: cannot find symbol
+          System.out.pritln("Neither all are equal or different");
+                    ^
+  symbol:   method pritln(String)
+  location: variable out of type PrintStream
+1 error
+Sun  2 Feb 2020 02:29:07 CST
+Input first number: Input second number: Input third number: Neither all are equal or different
+Sun  2 Feb 2020 02:29:18 CST
