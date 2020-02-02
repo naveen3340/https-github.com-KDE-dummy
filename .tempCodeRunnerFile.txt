@@ -1,1 +1,15 @@
 
+ex.c:5:3: warning: implicit declaration of function 'println' is invalid in C99 [-Wimplicit-function-declaration]
+  println("Hello, World!");
+  ^
+1 warning generated.
+Undefined symbols for architecture x86_64:
+  "_println", referenced from:
+      _main in ex-05b609.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+Sun  2 Feb 2020 02:26:27 CST
+bash: /Users/Reynaldo/Desktop/test-Rey1213/ex: No such file or directory
+Sun  2 Feb 2020 02:26:27 CST
+Hello
+Sun  2 Feb 2020 02:26:50 CST
