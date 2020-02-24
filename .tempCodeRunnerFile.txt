@@ -1,18 +1,1 @@
 
-Example.java:21: error: cannot find symbol
-          System.out.pritln("Neither all are equal or different");
-                    ^
-  symbol:   method pritln(String)
-  location: variable out of type PrintStream
-1 error
-Sun 23 Feb 2020 22:32:43 CST
-Input first number: Exception in thread "main" java.util.InputMismatchException
-	at java.util.Scanner.throwFor(Scanner.java:864)
-	at java.util.Scanner.next(Scanner.java:1485)
-	at java.util.Scanner.nextInt(Scanner.java:2117)
-	at java.util.Scanner.nextInt(Scanner.java:2076)
-	at Example.main(Example.java:9)
-Sun 23 Feb 2020 22:32:44 CST
-Sun 23 Feb 2020 22:32:56 CST
-Input first number: Input second number: Input third number: All numbers are equal
-Sun 23 Feb 2020 22:33:01 CST
