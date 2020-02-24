@@ -16,9 +16,10 @@ public class Example {
       {
           System.out.println("All numbers are equal");
       }
+
       else if ((x == y) || (x == z) || (z == y))
       {
-          System.out.pritln("Neither all are equal or different");
+          System.out.println("Neither all are equal or different");
       }
       else
       {
